@@ -1,3 +1,18 @@
+**TO DO**
+[ ] create migrations
+[ ] create seed data
+[ ] run migrations
+[ ] seed database
+[ ] set up models (including relationships and validations)
+[ ] set up controllers
+[ ] set up basic views
+[ ] set up routes
+[ ] check if routes work
+[ ] elaborate on views to add forms, etc
+[ ] test out basic UX
+[ ] add user auth (including basic signup/login/logout functionality)
+[ ] style views 
+
 **Basic Outline of App**
 
 + A user can create a new beer
